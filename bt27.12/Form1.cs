@@ -14,6 +14,7 @@ namespace bt27._12
     {
         public Form1()
         {
+            //them 
             InitializeComponent();
         }
     }
